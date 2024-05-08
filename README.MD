@@ -4,9 +4,11 @@
 
 
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course" target:"_blank">
+  <a href="https://dio.me/" target:"_blank">
+	<img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash" target:"_blank">
+  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage" target:"_blank">
+	<img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
 </p>
 
@@ -22,17 +24,17 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é um fork do repositório ![Prompts for Article Generate by IA](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia) desenvolvido durante o bootcamp Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é um fork do repositório [Prompts for Article Generate by IA](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia) desenvolvido durante o bootcamp Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo" target:"_blank">
-  <img src=".github/assets/video-preview.png" width="80%">
+  	<img src=".github/assets/video-preview.png" width="80%">
   </a>
 <p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://dio.me/articles/as-melhores-praticas-para-diretivas-no-angular" title="View PDF now" target:"_blank"> 📕Clique aqui para ler o artigo</a>
+<a href="https://dio.me/articles/as-melhores-praticas-para-diretivas-no-angular" title="View PDF now" target:"_blank">📕 Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -43,12 +45,16 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+ChatGPT:
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo o {ROTEIRO} e as {REGRAS} abaixo.
+**Título**
+```ChatGPT
+Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas
+```
+
+**Conteúdo**
+```ChatGPT
+Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo o {ROTEIRO} e as {REGRAS} abaixo.
 
 {ROTEIRO}
 > O que são Diretivas no Angular;
@@ -61,8 +67,8 @@ ChatGPT：
 
 {REGRAS}
 > Explique de maneira informal direcionado a uma pessoa leiga no assunto;
-> No máximo 5 linhas por bloco de explicação; |
-
+> No máximo 5 linhas por bloco de explicação;
+```
 
 Bing/Copilot：
 
@@ -93,13 +99,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/65900450?s=400&u=04da6d69a2e099dd4b0f347b030ebfe55f454588&v=4"
     />
     <p>&nbsp&nbsp&nbspFábio Giacobe<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/FGiacobe" target:"_blank">
+    <a href="https://github.com/FGiacobe/" target:"_blank">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/fabiogiacobe" target:"_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/fabiogiacobe/" target:"_blank">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/fgiacobe/" target:"_blank">Instagram</a>
 &nbsp;|&nbsp;
