@@ -16,7 +16,7 @@
 
 <p align="center">
   <img 
-    src=".github/preview.png"
+    src="preview.png"
     width="400"  
   />
 </p>
