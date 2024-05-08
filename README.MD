@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <a href="https://dio.me/" target:"_blank">
+  <a href="https://dio.me/" target="_blank">
 	<img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage" target:"_blank">
+  <a href="https://dio.me/articles/as-melhores-praticas-para-diretivas-no-angular" title="Go to Article" target="_blank">
 	<img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
 </p>
@@ -27,14 +27,14 @@
  > ℹ️ **NOTE:** Este é um fork do repositório [Prompts for Article Generate by IA](https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia) desenvolvido durante o bootcamp Fundamentos de IA para Devs na plataforma da [DIO](https://dio.me).
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo" target:"_blank">
+  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo" target="_blank">
   	<img src=".github/assets/video-preview.png" width="80%">
   </a>
 <p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://dio.me/articles/as-melhores-praticas-para-diretivas-no-angular" title="View PDF now" target:"_blank">📕 Clique aqui para ler o artigo</a>
+<a href="https://dio.me/articles/as-melhores-praticas-para-diretivas-no-angular" title="View PDF now" target="_blank">📕 Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -103,11 +103,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFábio Giacobe<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/FGiacobe/" target:"_blank">
+    <a href="https://github.com/FGiacobe/" target="_blank">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/fabiogiacobe/" target:"_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/fabiogiacobe/" target="_blank">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/fgiacobe/" target:"_blank">Instagram</a>
+    <a href="https://www.instagram.com/fgiacobe/" target="_blank">Instagram</a>
 &nbsp;|&nbsp;
 </p>
 </p>
